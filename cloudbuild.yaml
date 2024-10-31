@@ -3,4 +3,4 @@ steps:
   args: ['build', '-t', 'gcr.io/invertible-spot-438722-m3/cicd1image:v1.0', '.']
 
 options:
-  logging: CLOUD_LOGGING_ONLY
+  logging: NONE
